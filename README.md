@@ -1,4 +1,4 @@
-# A Practical Introduction to Knowledge Distillation
+# An Introduction to Knowledge Distillation
 
 This repository provides a clear and accessible introduction to the concept of **Knowledge Distillation (KD)**. It contains educational materials designed to bridge the gap between theory and practice, making it easy for anyone to learn how to train smaller, more efficient models by "distilling" knowledge from larger, more complex ones.
 
