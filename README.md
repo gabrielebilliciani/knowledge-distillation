@@ -4,8 +4,6 @@ This repository provides a clear and accessible introduction to the concept of *
 
 The materials were prepared for a university project to introduce this powerful model compression technique.
 
----
+## Prerequisites
 
-## Goal of the Project
-
-The primary goal of this repository is to offer simple, practical, and easy-to-digest materials for anyone getting started with Knowledge Distillation.
+The content is designed for those with a basic understanding of machine learning and neural networks. Familiarity with Python and PyTorch is also beneficial, as the examples are implemented using these technologies.
