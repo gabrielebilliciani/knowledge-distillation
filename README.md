@@ -16,4 +16,4 @@ The repository’s structure is straightforward:
   - **Notebook 2**: Classification tasks with MLPs on MNIST.
   - **Notebook 3**: Classification tasks with CNNs and ResNets on CIFAR10 and CIFAR100.
 
-Plase be warned that some of the notebooks might take a long time to run, especially those involving larger models or datasets. Those provided here already contain execution results, so you can view the outcomes without running the code again.
+Please be warned that some of the notebooks might take a long time to run, especially those involving larger models or datasets. Those provided here already contain execution results, so you can view the outcomes without running the code again.
